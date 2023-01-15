@@ -1,3 +1,13 @@
+## YouTube em ReactJS
+
+Este projeto é um clone do YouTube criado com ReactJS, com branding personalizado e integração com a RapidAPI. Ele permite que os usuários pesquisem e assistam a vídeos, assim como no aplicativo original. A interface foi projetada para ser intuitiva e fácil de usar, e a integração com a RapidAPI garante que os resultados de pesquisa sejam precisos e atualizados. Além disso, a personalização do branding permite que este projeto seja usado para fins comerciais ou pessoais.
+
+https://astounding-fox-58f508.netlify.app/
+
+![image](https://user-images.githubusercontent.com/69029099/212503043-bdebc732-4261-4a59-abaa-5bb4a6700f49.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
